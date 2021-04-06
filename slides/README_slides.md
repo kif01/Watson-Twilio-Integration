@@ -48,14 +48,12 @@ jupyter:
 Learn to extend your chatbot's capabilities with Voice Agent using Watson Assistant, Speech to Text, Text to Speech, and Twilio.
 
 🎓 What will you learn? <br />
-- What are interactive dashboards
-- How to explore Data Analysis
-- How to visualize data
+• What is Watson Assistant? <br />
+• What is Voice Agent? <br />
+• What is Twilio? <br />
 
 👩‍💻 Who should attend? <br />
-• What is Watson Assistant?
-• What is Voice Agent?
-• What is Twilio?
+Developers that have a small background with chatbots (if you don't have any background that's totally fine since we will be covering the basics, but this webinar will be focusing more on the voice capabilities of the assistant).
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
