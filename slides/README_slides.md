@@ -45,11 +45,10 @@ jupyter:
 
 
 **🌟 Overview** <br />
-Learn to extend your chatbot's capabilities with Voice Agent using Watson Assistant, Speech to Text, Text to Speech, and Twilio.
+Learn to extend your chatbot's capabilities with Watson Assistant, Speech to Text, Text to Speech, and Twilio.
 
 🎓 What will you learn? <br />
 • What is Watson Assistant? <br />
-• What is Voice Agent? <br />
 • What is Twilio? <br />
 
 👩‍💻 Who should attend? <br />
@@ -63,7 +62,7 @@ Developers that have a small background with chatbots (if you don't have any bac
 - Rangana Gunathilaka, IBM Champion https://www.linkedin.com/in/rgsajit/
 
 🎈 Prerequisites <br />
-☁ Register for a free IBM Cloud Account: https://ibm.biz/BdqCeB
+☁ Register for a free IBM Cloud Account: https://ibm.biz/BdqCeB <br />
 ☁ Sign up for a Twilio account: https://www.twilio.com/try-twilio
 
 🍉 Register for the live stream and replay on Crowdcast: <br/>
