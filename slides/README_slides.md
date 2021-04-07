@@ -170,6 +170,18 @@ https://www.crowdcast.io/e/WA-twilio
 
 ![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide24.jpeg?raw=true)
 
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide25.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide26.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide27.jpeg?raw=true)
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
