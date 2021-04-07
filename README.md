@@ -5,5 +5,4 @@
 - You can view the recording of the webinar [here](https://www.crowdcast.io/e/voice-agent-twilio)
 - Workshop Slides - https://kif01.github.io/Watson-Twilio-Integration/#/ </br>
 # Architecture Flow
-
-<img width="1000" alt="Screen Shot 2020-10-08 at 1 21 29 PM" src="https://user-images.githubusercontent.com/15332386/95439851-3a581800-0969-11eb-888d-b181ca4104fb.png">
+<img width="878" alt="Screen Shot 2021-04-07 at 4 55 35 PM" src="https://user-images.githubusercontent.com/15332386/113869732-1cf1f280-97c2-11eb-8a09-4cf61da57563.png">
