@@ -45,17 +45,14 @@ jupyter:
 
 
 **🌟 Overview** <br />
-Learn to extend your chatbot's capabilities with Voice Agent using Watson Assistant, Speech to Text, Text to Speech, and Twilio.
+Learn to extend your chatbot's capabilities with Watson Assistant, Speech to Text, Text to Speech, and Twilio.
 
 🎓 What will you learn? <br />
-- What are interactive dashboards
-- How to explore Data Analysis
-- How to visualize data
+• What is Watson Assistant? <br />
+• What is Twilio? <br />
 
 👩‍💻 Who should attend? <br />
-• What is Watson Assistant?
-• What is Voice Agent?
-• What is Twilio?
+Developers that have a small background with chatbots (if you don't have any background that's totally fine since we will be covering the basics, but this webinar will be focusing more on the voice capabilities of the assistant).
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
@@ -65,7 +62,7 @@ Learn to extend your chatbot's capabilities with Voice Agent using Watson Assist
 - Rangana Gunathilaka, IBM Champion https://www.linkedin.com/in/rgsajit/
 
 🎈 Prerequisites <br />
-☁ Register for a free IBM Cloud Account: https://ibm.biz/BdqCeB
+☁ Register for a free IBM Cloud Account: https://ibm.biz/BdqCeB <br />
 ☁ Sign up for a Twilio account: https://www.twilio.com/try-twilio
 
 🍉 Register for the live stream and replay on Crowdcast: <br/>
@@ -172,6 +169,18 @@ https://www.crowdcast.io/e/WA-twilio
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide24.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide25.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide26.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/kif01/Watson-Twilio-Integration/blob/main/images/slide_images/Slide27.jpeg?raw=true)
 
 ## License
 
